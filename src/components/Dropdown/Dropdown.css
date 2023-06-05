@@ -1,0 +1,9 @@
+.dropdown {
+    width: 564px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 2px solid #7A5CFA;
+    border-radius: 8px 8px 0px 0px;
+    cursor: pointer;
+
+}

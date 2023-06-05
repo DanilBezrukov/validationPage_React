@@ -1,0 +1,30 @@
+.formBt {
+    margin-top: 100px;
+    padding-bottom: 92px;
+    width: 564px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resetBt,
+.submitBt {
+    border: 1px solid #7A5CFA;
+    border-radius: 8px;
+    width: 172px;
+    height: 56px;
+    background: #FFFFFF;
+    color: #7A5CFA;
+    font-weight: 400;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submitBt {
+    background: #7A5CFA;
+    color: #FFFFFF;
+}
+.submitDisabled{
+    background-color: #ccc;
+    border-color: #ccc;
+    cursor:no-drop;
+}
